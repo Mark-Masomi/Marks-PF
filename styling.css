@@ -1,0 +1,55 @@
+
+span{
+    font-family:'Dancing Script', cursive;
+    font-size: larger;
+}
+.img {
+    border: 1px solid #ddd; 
+    border-radius: 4px;  
+    padding: 5px; 
+    width: 150px; 
+  }
+  a:link , nav button:link {
+    color:darkgoldenrod;
+  }
+  
+  /* visited link */
+  a:visited , nav button:visited {
+    color:burlywood;
+  }
+  
+  /* mouse over link */
+  a:hover , nav button:hover {
+    color:brown;
+  }
+  
+  /* selected link */
+  a:active , nav button:active {
+    color:cornflowerblue;
+  }
+  a{
+    text-decoration:none;
+  }  
+  .navbar li{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: inline;
+      }
+      h1{
+        font-family: 'Roboto Slab', serif;
+    }
+
+.some{
+
+    font-size: 2rem;
+  }
+  body{
+    text-align:center ;
+    font-family:sans-serif;
+  }
+  ul.myUL {
+    display:inline-block;
+    text-align:center;
+  }
