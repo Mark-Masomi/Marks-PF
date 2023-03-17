@@ -53,3 +53,12 @@ span{
     display:inline-block;
     text-align:center;
   }
+  
+  i.White
+  {
+    color:white;
+  }
+  i{
+    font-style: normal;
+  }
+  
