@@ -27,9 +27,7 @@ span{
   a:active , nav button:active {
     color:cornflowerblue;
   }
-  a{
-    text-decoration:none;
-  }  
+   
   .navbar li{
     list-style-type:none;
     margin: 0;
