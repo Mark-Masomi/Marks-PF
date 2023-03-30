@@ -9,27 +9,27 @@ span{
     padding: 5px; 
     width: 150px; 
   }
-  a:link , nav button:link {
+  .navbar-brand:link {
     color:darkgoldenrod;
   }
   
   /* visited link */
-  a:visited , nav button:visited {
+  .navbar-brand:visited {
     color:burlywood;
   }
   
   /* mouse over link */
-  a:hover , nav button:hover {
+  .navbar-brand:hover {
     color:#000;
   }
   
   /* selected link */
-  a:active , nav button:active {
+  .navbar-brand:active {
     color:cornflowerblue;
   }
-  a{
+  /*a{
     text-decoration:none;
-  }  
+  }*/  
   .navbar li{
     list-style-type:none;
     margin: 0;
@@ -38,8 +38,7 @@ span{
     display: inline;
       }
       h1{
-        font-family: 'Roboto Slab', serif;
-    }
+        font-family: 'Roboto Slab', serif;}
 
 .some{
 
@@ -53,16 +52,8 @@ span{
     display:inline-block;
     text-align:center;
   }
-  
-  i.White
-  {
-    color:white;
-  }
-  i{
-    font-style: normal;
+
+  .fa-brands{
+    color:#000000 ;
   }
   
-  a.icons:link,a.icons:visited
-  {
-    color: white;
-  }
