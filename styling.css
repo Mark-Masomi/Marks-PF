@@ -3,6 +3,11 @@ span{
     font-family:'Dancing Script', cursive;
     font-size: larger;
 }
+.display-4{
+    font-family:'Dancing Script', cursive;
+    font-size: larger;
+    font-size: 2rem;
+}
 .img {
     border: 1px solid #ddd; 
     border-radius: 4px;  
